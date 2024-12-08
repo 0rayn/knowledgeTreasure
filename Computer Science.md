@@ -1,6 +1,6 @@
 ---
 tags:
-  - main
+  - field
 ---
 ## Introduction:
 - Computer Science is the study of computers and computational systems, encompassing theory, design, development, and application. It is a broad and dynamic field that forms the backbone of modern technology and innovation.

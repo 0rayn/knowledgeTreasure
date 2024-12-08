@@ -11,10 +11,14 @@
             "id": "bb416871ffa828a8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "templates/Branch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Branch"
             }
           },
           {
@@ -131,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Algorithms"
             }
           },
           {
@@ -149,11 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Algorithms"
             }
           },
           {
@@ -174,9 +180,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Algorithms.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Algorithms"
             }
           }
         ]
@@ -198,13 +206,16 @@
   },
   "active": "bb416871ffa828a8",
   "lastOpenFiles": [
-    "Algorithms.md",
-    "templates/Branch.md",
-    "Computer Science.md",
-    "templates/Main.md",
-    "README.md",
-    "Theoretical Computer Science.md",
     "templates/Child-Branches.md",
+    "templates/Main.md",
+    "hhhhhh.md",
+    "Algorithms.md",
+    "Theoretical Computer Science.md",
+    "Computer Science.md",
+    "Cybersecurity.md",
+    "Automata Theory.md",
+    "templates/Branch.md",
+    "README.md",
     "Untitled",
     "www.example.com.md",
     "example.com.md",
